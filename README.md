@@ -7,7 +7,7 @@ A copy of ChatGPT with Node and React that allows to fetch and select any availa
 2. "npm init" and name it "Server" to create your server folder.
 3. "npm install express bodyparser openai cors --save" to install the packages we need for this app, and add --save to save them into the package.json
 
-Don't forget to get your OpenAI API key and to type it in apiKey inside of the " const configuration " in the server file named index.js.
+Don't forget to get your OpenAI API key and to type it in apiKey inside of the " const configuration " in the server file named index.js.\n
 You can then initialize the server with a " node index.js " in the terminal.
 You can initialize the React app with a " npm start ".
 The most powerful, but also the most expensive, model of OpenAI for text generation is "text-davinci-003".
