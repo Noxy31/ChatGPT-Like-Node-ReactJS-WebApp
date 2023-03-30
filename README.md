@@ -17,4 +17,4 @@ The app is named Irelia AI by default, but feel free to modify and play with the
 
 # THIS PROJECT IS STILL UNDER DEVELOPMENT. THE TEMPERATURE BAR WILL ALLOWS US TO CHANGE IT FROM THE FRONTEND AND A COUPLE MORE FEATURES WILL BE ADDED #
 
-# Note that I'm also working on a version of this app that will allow to use and test our own fine-tuned model, without the use of openai's api. Actually working on fine-tuning a alpaca-lora (LLama) model that will be implemented in the App, and an entire metrics dashboard will be created to evaluate fine-tuning and the chat page will alow to test it directly after. #
+# Note that I'm also working on a version of this app that will allow to use and test our own fine-tuned model, without the use of openai's api. Actually working on fine-tuning a alpaca-lora (LLama) model that will be implemented in the App, and an entire metrics dashboard will be created to evaluate fine-tuning in another tab.
